@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://adad22ro.github.io/css-proiect-1",
+  "homepage": "https://Tumoji.github.io/html-css-proiect",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /css-proiect-1/"
+    "build": "parcel build src/index.html --public-url /html-css-proiect/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adad22ro/css-proiect-1.git"
+    "url": "git+https://github.com/Tumoji/html-css-proiect.git"
   },
   "keywords": [],
-  "author": "Rusu Andrei <gabirusu2000@gmail.com>",
+  "author": "Bogdan Nemes <bogdan.nemes@live.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adad22ro/css-proiect-1/issues"
+    "url": "https://github.com/Tumoji/html-css-proiect/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
